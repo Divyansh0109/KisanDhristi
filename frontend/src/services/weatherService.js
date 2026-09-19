@@ -1,4 +1,4 @@
-// KisanDrishti — OpenWeatherMap Integration
+// Drishti — OpenWeatherMap Integration
 // Reads EXPO_PUBLIC_OPENWEATHER_API_KEY from environment
 
 const API_KEY = process.env.EXPO_PUBLIC_OPENWEATHER_API_KEY;

@@ -1,4 +1,4 @@
-// KisanDrishti Design System Tokens
+// Drishti Design System Tokens
 // Based on Bharat Civil Service Interface design system from Stitch
 
 export const COLORS = {

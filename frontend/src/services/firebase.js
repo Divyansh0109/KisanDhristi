@@ -1,4 +1,4 @@
-// KisanDrishti — Firebase Configuration
+// Drishti — Firebase Configuration
 // Uses EXPO_PUBLIC_FIREBASE_* environment variables
 
 import { initializeApp, getApps } from 'firebase/app';

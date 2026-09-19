@@ -1,4 +1,4 @@
-// KisanDrishti — Scan History Firestore Service
+// Drishti — Scan History Firestore Service
 // Collection: "scans"
 
 import {

@@ -1,9 +1,9 @@
-// KisanDrishti — Full Hindi/English Translation Dictionary
+// Drishti — Full Hindi/English Translation Dictionary
 
 const translations = {
   en: {
     // App-level
-    appName: 'KisanDrishti',
+    appName: 'Drishti',
     appTagline: 'Smart Crop Disease Detection',
 
     // Tab / Nav labels
@@ -134,7 +134,7 @@ const translations = {
     settingsOfflineSync: 'Offline Sync',
     settingsClearCache: 'Clear Cache',
     settingsProfile: 'My Profile',
-    settingsAbout: 'About KisanDrishti',
+    settingsAbout: 'About Drishti',
     settingsVersion: 'Version 1.0.0',
     settingsPrivacyPolicy: 'Privacy Policy',
     settingsDeveloper: 'Developed for Indian Farmers',

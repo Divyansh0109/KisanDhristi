@@ -1,4 +1,4 @@
-// KisanDrishti — User/Profile Firestore Service
+// Drishti — User/Profile Firestore Service
 // Collection: "users" — keyed by userId
 
 import {

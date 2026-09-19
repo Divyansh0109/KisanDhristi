@@ -1,4 +1,4 @@
-// KisanDrishti — Firestore Retry Helper
+// Drishti — Firestore Retry Helper
 // Reusable exponential-backoff wrapper for Firestore operations that may
 // fail with "client is offline" or transient network errors.
 

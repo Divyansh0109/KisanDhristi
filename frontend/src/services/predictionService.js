@@ -1,4 +1,4 @@
-// KisanDrishti — Crop Disease Prediction Service
+// Drishti — Crop Disease Prediction Service
 //
 // Calls the real Flask backend POST /predict via the api.js client.
 // Falls back to placeholder data ONLY when the backend URL is not

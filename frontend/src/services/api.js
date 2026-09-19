@@ -1,4 +1,4 @@
-// KisanDrishti — Backend API Client
+// Drishti — Backend API Client
 // Isolated module for all Flask backend communication.
 // Change EXPO_PUBLIC_BACKEND_URL in .env to point to your Flask server.
 import { Platform } from 'react-native';
